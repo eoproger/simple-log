@@ -1,0 +1,21 @@
+{
+    "name": "eoproger/simple-log",
+    "description": "Simple log class",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "EoProger\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "EoProger",
+            "email": "eostudio@yandex.ru"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">7.1"
+    }
+}
