@@ -11,7 +11,8 @@
     "authors": [
         {
             "name": "EoProger",
-            "email": "eostudio@yandex.ru"
+            "email": "eostudio@yandex.ru",
+            "homepage": "https://github.com/eoproger"
         }
     ],
     "minimum-stability": "stable",
