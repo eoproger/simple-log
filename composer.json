@@ -14,7 +14,7 @@
             "email": "eostudio@yandex.ru"
         }
     ],
-    "minimum-stability": "dev",
+    "minimum-stability": "stable",
     "require": {
         "php": ">7.1"
     }
